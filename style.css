@@ -1,0 +1,14 @@
+.impossible-button {
+    background-color: coral;
+    color: white;
+    display: block;
+    padding: 1rem;
+    width: 150px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+}
