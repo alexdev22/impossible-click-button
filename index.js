@@ -8,6 +8,5 @@ const randomNumber = () => {
 button.addEventListener('mouseover', () => {
     button.style.top = randomNumber() + '%'
     button.style.left = randomNumber() + '%'
-    console.log(randomNumber());
 })
 
